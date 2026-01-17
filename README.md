@@ -191,5 +191,4 @@ pip install torch torchvision diffusers['torch'] transformers accelerate hf_xet
 ## 🔗 References
 
 - [Stable Diffusion v1.5 on Hugging Face](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
-- [Diffusers Library Documentation](https://huggingface.co/docs/diffusers)
 - [PyTorch Memory Management](https://pytorch.org/docs/stable/notes/cuda.html)

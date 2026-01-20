@@ -151,7 +151,7 @@ Where:
 
 ## 🛠️ Setup Instructions
 
-### Local Setup
+### Local Setup (if GPU available)
 ```bash
 # Create virtual environment
 python -m venv env
@@ -166,7 +166,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### Google Colab Setup (with T4 GPU) (Recommended)
+### Google Colab Setup (with T4 GPU)
 1. Open the notebook in Google Colab
 2. Go to Runtime → Change runtime type → Select GPU (T4)
 3. Run all cells
